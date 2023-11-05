@@ -55,3 +55,4 @@ http://openarena.ws/download.php, replacing existing files with the same names.
 
 Currently the game runs (main menu appears) but crashes when you actually try
 to load an arena to fight in.
+Compile!
